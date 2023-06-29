@@ -9,10 +9,6 @@ new_2D_weightfunction.m is for planar arrays (URAs and 2D sparse arrays).
 There is one more program named new_IES_to_sensor_positions_autoconvert.m that can convert from inter-element spacing (IES) notation to the actual sensor positions. 
 This will be useful when working with traditional sparse arrays or modern ones like the MISC array, Two-sided Extended nested array (TS-ENA), GENAMS etc.
 
-# Licensing Information
-
-This code is licensed under GPLv2 license.
-
 # Citing our paper
 
 If you use or modify our code and obtain any publication out of it, kindly cite our original article.
